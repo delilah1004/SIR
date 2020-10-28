@@ -60,6 +60,28 @@ button.bg-mint:focus {
   background-color: #18a689 !important;
 }
 
+/* light gray 배경색 */
+.bg-lg {
+  background-color: #F2F2F2 !important;
+}
+
+a.bg-lg:hover, a.bg-lg:focus,
+button.bg-lg:hover,
+button.bg-lg:focus {
+  background-color: #F2F2F2 !important;
+}
+
+/* skyblue 배경색 */
+.bg-sky {
+  background-color: #96D2DA !important;
+}
+
+a.bg-sky:hover, a.bg-sky:focus,
+button.bg-sky:hover,
+button.bg-sky:focus {
+  background-color: #96D2DA !important;
+}
+
 /* navy 배경색 */
 .bg-navy {
   background-color: #2f4050 !important;
