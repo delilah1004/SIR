@@ -1,7 +1,6 @@
 :root {
   --mint: #1ab3a4;
   --navy: #2f4050;
-  --white: #000000;
 }
 
 /* mint button */
@@ -55,7 +54,7 @@
   background-color: #1ab3a4 !important;
 }
 
-a.bg-mint:hover, a.bg-mint:focus,
+/*a.bg-mint:hover, a.bg-mint:focus,
 button.bg-mint:hover,
 button.bg-mint:focus {
   background-color: #18a689 !important;
@@ -159,22 +158,22 @@ a.text-navy:hover, a.text-navy:focus {
 }
 
 /* floating menu */
-
 .floatMenu {
   position: fixed;
-  width: 100%;
+  right: 30px;
+	width: 85px;
+	height: 85px;
 }
 
 .sir {
-
-  right: 280px;
-  bottom: 40px;
+  right: 20px;
+  bottom: 240px;
   background-image: url('../img/floating/crowd_sir_120.png');
 }
 
 .jobkorea {
-  right: 150px;
-	bottom: 40px;
+  right: 20px;
+	bottom: 140px;
   background-image: url('../img/floating/crowd_jobkorea_120.png');
 }
 
