@@ -1,6 +1,4 @@
 ---
-title: Video1
-permalink: /video1/
+title: video1
+permalink: video1.html
 ---
-
-<iframe width="420" height="315" src="../vid/tutorial/sample_1.mp4" frameborder="0" allowfullscreen></iframe>
