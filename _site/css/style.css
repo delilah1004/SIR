@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
-@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,500,700");
 /*
  *
  *   INSPINIA - Responsive Admin Theme
@@ -4396,7 +4394,7 @@ body.mini-navbar.fixed-sidebar .logo-element {
   margin-bottom: 0;
 }
 .middle-box h1 {
-  font-size: 78px; 
+  font-size: 78px;
 }
 .wrapper .middle-box {
   margin-top: 140px;
