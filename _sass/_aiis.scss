@@ -111,3 +111,21 @@
         }
     }
 }
+
+header {
+  .header-content {
+    .h-title {
+      font-size: 4vmin;
+    }
+    .h-content {
+      font-size: 2.5vmin;
+      margin: 7vmin auto;
+    }
+  }
+}
+
+/* 큰 버튼 */
+.btn-big {
+  font-size: 2vmin;
+  padding: 1vw 2vw;
+}

@@ -28,12 +28,6 @@
     });
 
     //Fit Text Plugin for Main Header
-    $("h1").fitText(
-        1.2, {
-            minFontSize: '15px',
-            maxFontSize: '65px'
-        }
-    );
 
     // Initialize WOW.js Scrolling Animations
     new WOW().init();

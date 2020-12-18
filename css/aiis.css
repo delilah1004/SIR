@@ -8,6 +8,12 @@
   position: static;
 }
 
+.nav-item .nav-link {
+  margin-left: 1.5rem!important;
+  margin-right: 1.5rem!important;
+  padding: 0;
+}
+
 /* mint button */
 .btn-mint {
   color: #fff;
@@ -46,12 +52,6 @@
   background-color: #293846;
   border-color: #2F4050;
   box-shadow: 0 0 0 0.2rem transparent;
-}
-
-/* 큰 버튼 */
-.btn-big {
-  font-size: 1.3rem;
-  padding: 15px 30px;
 }
 
 /* mint 배경색 */
@@ -131,7 +131,6 @@ a.text-navy:hover, a.text-navy:focus {
   top: 0;
   border-width: 0 0 1px;
   border: 1px solid transparent;
-  margin-bottom: 20px;
   min-height: 50px;
 }
 
