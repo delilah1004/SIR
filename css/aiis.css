@@ -3,6 +3,11 @@
   --navy: #2f4050;
 }
 
+/* Navigation bar */
+#main-Nav {
+  position: static;
+}
+
 /* mint button */
 .btn-mint {
   color: #fff;
