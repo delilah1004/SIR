@@ -157,6 +157,13 @@ header .header-content .h-title { font-size: 4vmin; }
 
 header .header-content .h-content { font-size: 2.5vmin; margin: 7vmin auto; }
 
+/* floating menu */
+.floating { position: fixed; right: 3vmin; bottom: 3vmin; }
+
+.floating .floatMenu { width: 15vw; max-width: 85px; min-width: 60px; margin-bottom: 10px; overflow: hidden; }
+
+.floating .floatMenu .floatImg { width: 100%; }
+
 /* 큰 버튼 */
 .btn-big { font-size: 2vmin; padding: 1vw 2vw; }
 

@@ -162,26 +162,6 @@ a.text-navy:hover, a.text-navy:focus {
   font-size: 15pt;
 }
 
-/* floating menu */
-.floatMenu {
-  position: fixed;
-  right: 30px;
-	width: 85px;
-	height: 85px;
-}
-
-.sir {
-  right: 20px;
-	bottom: 140px;
-  background-image: url('../img/floating/crowd_sir_120.png');
-}
-
-.kakao {
-  right: 20px;
-  bottom: 40px;
-  background-image: url('../img/floating/crowd_kakao_120.png');
-}
-
 /* help image */
 .help-img {
   width: 100%;
